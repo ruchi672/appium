@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results incomplete="1" failed="4" total="9" passed="4">
+<suite name="Failed suite [appium-examples]" verbose="2" guice-stage="DEVELOPMENT" configfailurepolicy="continue">
+<test name="appium-examples">
+<classes>
+<class name="io.seetest.examples.WebUrlSpecificDeviceTest">
+<test-method name="Test Mobile Website on IOS Safari" user="janani" executor="grid" started="06/15/2020 14:29:31" created="06/15/2020 14:29:25" duration="00m:43s" os="IOS 9.3.2" platform="IPad Pro" type="mobile" status="Passed" id="368335">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Login and Payment" user="ruchi" executor="grid" started="06/20/2020 14:01:45" created="none" duration="01m:02s" os="IOS 10.2.1" platform="IPhone 5c" type="mobile" status="Failed" id="3412345">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Chrome Test#1" user="janani" executor="grid" started="06/24/2020 11:53:50" created="none" duration="01m:26s" os="Chrome 63.0.3239.0" platform="WIN10" type="desktop" status="Incomplete" id="368154">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Test IOS Safari" user="janani" executor="grid" started="06/17/2020 14:31:31" created="06/17/2020 14:30:25" duration="00m:43s" os="IOS 10.3.3" platform="Iphone 6" type="mobile" status="Passed" id="5683352">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Test purpose" user="ruchi" executor="manual" started="06/21/2020 14:01:45" created="none" duration="01m:02s" os="IOS 10.2.1" platform="IPhone 6" type="mobile" status="Failed" id="7412348">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Chrome" user="janani" executor="grid" started="06/24/2020 10:53:50" created="none" duration="01m:26s" os="Chrome 63.0.3239.0" platform="WIN10" type="desktop" status="Passed" id="1681549">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Test Mobile" user="janani" executor="grid" started="06/10/2020 14:29:31" created="06/15/2020 14:29:25" duration="00m:43s" os="IOS 9.3.0" platform="IPad" type="mobile" status="Passed" id="1683366">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Login page" user="ruchi" executor="grid" started="06/23/2020 14:01:45" created="none" duration="01m:02s" os="IOS 10.3.1" platform="IPhone 7" type="mobile" status="Failed" id="123098">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Chrome Test#2" user="janani" executor="grid" started="06/25/2020 11:53:50" created="none" duration="01m:26s" os="Chrome 63.0.3239" platform="WIN10" type="desktop" status="Failed" id="93681541">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method name="Chrome Test#1" user="janani" executor="grid" started="06/27/2020 11:53:50" created="none" duration="01m:20s" os="Chrome 63.0.3239" platform="WIN10" type="desktop" status="Failed" id="93681542">
+<reporter-output> </reporter-output>
+</test-method>
+</class>
+</classes>
+</test>
+</suite>
+</testng-results>
